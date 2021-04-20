@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:IOTPay/IOTPay.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OneTimePurchaseObjcExample/OneTimePurchaseObjcExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AddCardObjcExample/AddCardObjcExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OneTimePurchaseSwiftExample/OneTimePurchaseSwiftExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AddCardSwiftExample/AddCardSwiftExample.xcodeproj">
+   </FileRef>
+</Workspace>
